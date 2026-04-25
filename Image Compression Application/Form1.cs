@@ -8,8 +8,6 @@ using System.Text.RegularExpressions;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
-// TODO: PLEASE FOR THE LOVE OF GOD RENAME ALL THE LABELS TO MAKE THE CODE MORE READABLE HOW IS ANYONE GOING TO UNDERSTAND WHAT "label6" MEANS??? (Done! 17/03/26)
-
 namespace Image_Compression_Application
 {
     public partial class Image_Compressor : Form
