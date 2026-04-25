@@ -18,25 +18,25 @@ there is no fixed aspect ratio like 16:9 or 4:3 as the magick.net library seems 
 
 # Image Demos 
 
-no dithering applied
-<img width="919" height="870" alt="output4613491" src="https://github.com/user-attachments/assets/4ae2364a-bddb-4635-824e-f743fd141506" />
+No Dithering applied
+<img width="459" height="435" alt="output4613491" src="https://github.com/user-attachments/assets/4ae2364a-bddb-4635-824e-f743fd141506" />
 
 Riemersma applied
-<img width="919" height="870" alt="output7085430" src="https://github.com/user-attachments/assets/aa066e56-8dff-4701-999a-9a0bca6d2e47" />
+<img width="459" height="435" alt="output7085430" src="https://github.com/user-attachments/assets/aa066e56-8dff-4701-999a-9a0bca6d2e47" />
 
 FloydSteinberg applied
-<img width="919" height="870" alt="output5163639" src="https://github.com/user-attachments/assets/1f78944f-5128-4ef4-83fd-5c739d3e9b5d" />
+<img width="459" height="435" alt="output5163639" src="https://github.com/user-attachments/assets/1f78944f-5128-4ef4-83fd-5c739d3e9b5d" />
 
-no chroma subsampling 
+No Chroma Subsampling applied 
 <img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/ab065271-5807-4cb1-8493-f1d7f52e99b5" />
 
-chroma subsampling 4:2:2
+chroma subsampling 4:2:2 applied
 <img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/3b2c55b5-762b-4501-a95f-ec2f5a0e299c" />
 
-chroma subsampling 4:2:0
+chroma subsampling 4:2:0 applied
 <img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/17e58a3f-31d2-4905-a4aa-24b78a53d98f" />
 
-chroma subsampling 4:1:1
+chroma subsampling 4:1:1 applied 
 <img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/93ead124-2971-471c-b962-958039a20a8c" />
 
 (credits to red 101 website for the image comparisons on chroma subsampling) 
