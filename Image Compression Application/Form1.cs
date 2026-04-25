@@ -118,7 +118,7 @@ namespace Image_Compression_Application
         // help button
         private void pictureBox3_Click(object sender, EventArgs e)
         {
-            Process.Start(new ProcessStartInfo("https://github.com/Hubyzi") { UseShellExecute = true });
+            Process.Start(new ProcessStartInfo("https://github.com/Hubyzi/Image-Compressor/blob/master/README.md") { UseShellExecute = true });
         }
         private void label7_Click(object sender, EventArgs e)
         {
