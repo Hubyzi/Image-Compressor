@@ -18,13 +18,16 @@ There is no fixed aspect ratio like 16:9 or 4:3 as the magick.net library seems 
 
 # Image Demos 
 
-No Dithering applied
+Orignal image (with no colour quantization) 
+<img width="498" height="377" alt="ryu-ishigori-jjk" src="https://github.com/user-attachments/assets/e3001a94-c6d0-4269-a4f5-706d64f255f6" />
+
+No Dithering applied (colour quantization set at 2 bits) 
 <img width="498" height="377" alt="output564027" src="https://github.com/user-attachments/assets/667c6f11-0716-4b82-b2a7-94d6a81d8d4b" />
 
-Riemersma applied
+Riemersma applied (colour quantization set at 2 bits) 
 <img width="498" height="377" alt="output2536264" src="https://github.com/user-attachments/assets/5fdeae2e-d187-4436-91ba-edf7a933dbee" />
 
-FloydSteinberg applied
+FloydSteinberg applied (colour quantization set at 2 bits) 
 <img width="498" height="377" alt="output241341" src="https://github.com/user-attachments/assets/6ec05bc3-9e97-4540-b1a0-dadd4eaf6ce8" />
 
 No Chroma Subsampling applied 
