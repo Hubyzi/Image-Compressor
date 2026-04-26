@@ -19,13 +19,13 @@ There is no fixed aspect ratio like 16:9 or 4:3 as the magick.net library seems 
 # Image Demos 
 
 No Dithering applied
-<img width="498" height="377" alt="image" src="https://github.com/user-attachments/assets/46b07a54-39f6-4ccf-8a77-956f1f8c20ca" />
+<img width="498" height="377" alt="output564027" src="https://github.com/user-attachments/assets/667c6f11-0716-4b82-b2a7-94d6a81d8d4b" />
 
 Riemersma applied
-<img width="498" height="377" alt="output2536264" src="https://github.com/user-attachments/assets/02c48e9c-9e9d-47bb-b7d6-4373368f6517" />
+<img width="498" height="377" alt="output2536264" src="https://github.com/user-attachments/assets/5fdeae2e-d187-4436-91ba-edf7a933dbee" />
 
 FloydSteinberg applied
-<img width="498" height="377" alt="output241341" src="https://github.com/user-attachments/assets/fd297109-7211-4e5d-9dbc-6995937256a9" />
+<img width="498" height="377" alt="output241341" src="https://github.com/user-attachments/assets/6ec05bc3-9e97-4540-b1a0-dadd4eaf6ce8" />
 
 No Chroma Subsampling applied 
 <img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/ab065271-5807-4cb1-8493-f1d7f52e99b5" />
